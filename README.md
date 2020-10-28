@@ -116,7 +116,7 @@ Unsupervised Image-to-Image Translation</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Image-to-Image-papers/blob/master/imi(62).pdf" style="text-decoration:none;">Towards Instance-level Image-to-Image Translation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Image-to-Image-papers/blob/master/imi(63).pdf" style="text-decoration:none;">Toward Learning a Unied Many-to-Many Mapping for Diverse Image Translation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Image-to-Image-papers/blob/master/imi(63).pdf" style="text-decoration:none;">Toward Learning a Unified Many-to-Many Mapping for Diverse Image Translation</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Image-to-Image-papers/blob/master/imi(64).pdf" style="text-decoration:none;">Mask-Guided Portrait Editing with Conditional GANs</a></li>
  
